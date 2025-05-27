@@ -13,7 +13,6 @@
 9. [Troubleshooting](#troubleshooting)
 10. [Performance Optimization](#performance-optimization)
 11. [Contributing](#contributing)
-12. [License](#license)
 
 ---
 
